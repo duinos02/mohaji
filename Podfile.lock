@@ -1,0 +1,42 @@
+PODS:
+  - IQKeyboardManagerSwift (6.5.5)
+  - Realm (4.3.2):
+    - Realm/Headers (= 4.3.2)
+  - Realm/Headers (4.3.2)
+  - RealmSwift (4.3.2):
+    - Realm (= 4.3.2)
+  - SwiftyPickerPopover (6.6.6)
+  - SwipeCellKit (2.7.1)
+  - TTSegmentedControl (0.4.10)
+  - TweeTextField (1.6.0)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - RealmSwift
+  - SwiftyPickerPopover
+  - SwipeCellKit
+  - TTSegmentedControl (~> 0.4.9)
+  - TweeTextField
+
+SPEC REPOS:
+  trunk:
+    - IQKeyboardManagerSwift
+    - Realm
+    - RealmSwift
+    - SwiftyPickerPopover
+    - SwipeCellKit
+    - TTSegmentedControl
+    - TweeTextField
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  Realm: 5e92902e2875dff4bb0fd02f67bb737c3d5db2bc
+  RealmSwift: 9a360fc7bae04fc2e308a34fbd899d5faa2d6b22
+  SwiftyPickerPopover: a402960a6687c911ffcb4e9fb282a1bc61186ab4
+  SwipeCellKit: 3972254a826da74609926daf59b08d6c72e619ea
+  TTSegmentedControl: d8005c0cdca2549ade0aee8e09240723e2478a6a
+  TweeTextField: 2bfb6c48fdbf6eb8038260430244c9f6ebb47bce
+
+PODFILE CHECKSUM: 24c9fa7ee57a5ae1da230438c8fd1959d2117088
+
+COCOAPODS: 1.8.4
